@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res" >
+            <file
+                name="back_button"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\back_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="check_symbol"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\check_symbol.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="free_square"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\free_square.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="free_square_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\free_square_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="free_square_o_win"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\free_square_o_win.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="free_square_o_win_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\free_square_o_win_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="free_square_x_win"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\free_square_x_win.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="free_square_x_win_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\free_square_x_win_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="highlight_square"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\highlight_square.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square_clicked"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square_clicked.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square_o_win"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square_o_win.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square_o_win_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square_o_win_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square_x_win"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square_x_win.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_square_x_win_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_square_x_win_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="o_symbol"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\o_symbol.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="restart_button"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\restart_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="start_button"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\start_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tic_tac_go"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\tic_tac_go.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square_clicked"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square_clicked.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square_o_win"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square_o_win.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square_o_win_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square_o_win_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square_x_win"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square_x_win.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_square_x_win_dark"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_square_x_win_dark.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="x_symbol"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-hdpi\x_symbol.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_game"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\layout\activity_game.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_kevin_wins"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\layout\activity_kevin_wins.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_start"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\layout\activity_start.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="game"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\menu\game.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="kevin_wins"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\menu\kevin_wins.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="start"
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\menu\start.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >TIC TAC GO
+                </string>
+                <string name="title_activity_kevin_wins" >KevinWinsActivity
+                </string>
+            </file>
+            <file
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\kevin\AndroidProjects\UltimateT3\app\build\generated\res\rs\release" />
+        <source path="C:\Users\kevin\AndroidProjects\UltimateT3\app\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\kevin\AndroidProjects\UltimateT3\app\src\release\res" />
+    </dataSet>
+
+</merger>

@@ -87,19 +87,18 @@ public class ImageAdapter extends BaseAdapter {
                 for(int k = 0; k < gameboard[i][j].length; k++) {
                     for(int l = 0; l < gameboard[i][j][k].length; l++) {
                         int gameboardSquare = gameboard[i][j][k][l];
-                        int subboardSquare = subboard[i][j];
-                        if(subboardSquare > 0) {
-                            if(subboardSquare == 1){
-                                gameboardSquare += 3;
-                            } else {
-                                gameboardSquare += 6;
-                            }
-                        }
-
                         if(gameboardSquare == 0 && (i == lastMove.cx && j == lastMove.cy)) {
                             gameboardSquare = 9;
+                        } else {
+                            int subboardSquare = subboard[i][j];
+                            if(subboardSquare > 0) {
+                                if(subboardSquare == 1) {
+                                    gameboardSquare += 3;
+                                } else {
+                                    gameboardSquare += 6;
+                                }
+                            }
                         }
-
                         squareImageIds[i][j][k][l] = gameboardSquare * 2;
                     }
                 }
