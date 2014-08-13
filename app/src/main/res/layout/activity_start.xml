@@ -34,6 +34,24 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:src="@drawable/restart_button"/>
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="created by Kevin Wang"
+        android:id="@+id/tvCreated"
+        android:layout_alignBottom="@+id/bRestart"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="a game based on Ultimate Tic Tac Toe"
+        android:id="@+id/tvDescription"
+        android:layout_below="@+id/bStart"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical"/>
 
 </RelativeLayout>

@@ -1,5 +1,6 @@
 package com.kevin.ultimatet3;
 
+import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Color;
@@ -9,9 +10,11 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 
 public class GameActivity extends Activity implements View.OnClickListener, AdapterView.OnItemClickListener {
     ImageView ivPlayerSymbol1, ivPlayerSymbol2, bCommit, bBack1;
+    LinearLayout loGameTitle;
     GridView vGameBoard;
     ImageAdapter imageAdapter;
 
@@ -48,6 +51,7 @@ public class GameActivity extends Activity implements View.OnClickListener, Adap
         */
         ttgGame = new TTGGame();
 
+        loGameTitle = (LinearLayout) findViewById(R.id.loGameTitle);
         ivPlayerSymbol1 = (ImageView) findViewById(R.id.ivPlayerSymbol1);
         ivPlayerSymbol2 = (ImageView) findViewById(R.id.ivPlayerSymbol2);
         vGameBoard = (GridView) findViewById(R.id.vGameboard);
@@ -61,7 +65,9 @@ public class GameActivity extends Activity implements View.OnClickListener, Adap
         vGameBoard.setHorizontalSpacing(2);
         vGameBoard.setAdapter(imageAdapter);
 
-        ivPlayerSymbol1.setImageResource(R.drawable.o_square_clicked);
+        loGameTitle.getLayoutParams().height = metrics.heightPixels/11;
+
+        ivPlayerSymbol1.setImageResource(R.drawable.o_square_o_win);
         ivPlayerSymbol2.setImageResource(R.drawable.x_symbol);
 
         bCommit.setOnClickListener(this);
@@ -125,11 +131,11 @@ public class GameActivity extends Activity implements View.OnClickListener, Adap
                         startActivity(intent);
                     }
                     if(ttgGame.blueTurn) {
-                        ivPlayerSymbol1.setImageResource(R.drawable.o_square_clicked);
+                        ivPlayerSymbol1.setImageResource(R.drawable.o_square_o_win);
                         ivPlayerSymbol2.setImageResource(R.drawable.x_symbol);
                     } else {
                         ivPlayerSymbol1.setImageResource(R.drawable.o_symbol);
-                        ivPlayerSymbol2.setImageResource(R.drawable.x_square_clicked);
+                        ivPlayerSymbol2.setImageResource(R.drawable.x_square_x_win);
                     }
                 }
                 break;

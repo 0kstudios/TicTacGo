@@ -46,7 +46,7 @@ public final class R {
         public static final int x_symbol=0x7f02001c;
     }
     public static final class id {
-        public static final int action_settings=0x7f08000e;
+        public static final int action_settings=0x7f080010;
         public static final int bBack1=0x7f080006;
         public static final int bBack2=0x7f080009;
         public static final int bCommit=0x7f080003;
@@ -59,6 +59,8 @@ public final class R {
         public static final int loGameScreen=0x7f080000;
         public static final int loGameTitle=0x7f080001;
         public static final int loStartScreen=0x7f08000a;
+        public static final int tvCreated=0x7f08000e;
+        public static final int tvDescription=0x7f08000f;
         public static final int tvWinName=0x7f080007;
         public static final int vGameboard=0x7f080005;
     }

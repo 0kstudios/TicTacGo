@@ -15,21 +15,21 @@
         <ImageView
             android:id="@+id/ivPlayerSymbol1"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="fill_parent"
             android:layout_column="0"
             android:src="@drawable/o_symbol" />
 
         <ImageView
             android:id="@+id/bCommit"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="fill_parent"
             android:layout_column="2"
             android:src="@drawable/check_symbol" />
 
         <ImageView
             android:id="@+id/ivPlayerSymbol2"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="fill_parent"
             android:layout_column="4"
             android:src="@drawable/x_symbol" />
 
